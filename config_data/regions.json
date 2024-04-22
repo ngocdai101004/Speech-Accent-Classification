@@ -1,63 +1,138 @@
 {
-    "VietMed_001_a": "North",
-    "VietMed_001_b": "North",
-    "VietMed_002": "South Central Coast",
-    "VietMed_003_a": "South East",
-    "VietMed_003_b": "South West",
-    "VietMed_004": "South Central Coast",
-    "VietMed_005": "Central Highland",
-    "VietMed_006_a": "South East",
-    "VietMed_006_b": "South East",
-    "VietMed_007_a": "Central Highland",
-    "VietMed_007_b": "South East",
-    "VietMed_008_a": "South East",
-    "VietMed_008_b": "South East",
-    "VietMed_008_c": "South East",
-    "VietMed_009_a": "South East",
-    "VietMed_009_b": "South East",
-    "VietMed_009_c": "South East",
-    "VietMed_010_a": "North",
-    "VietMed_010_b": "North",
-    "VietMed_011_a": "North",
-    "VietMed_011_b": "North",
-    "VietMed_011_c": "North",
-    "VietMed_012_a": "South East",
-    "VietMed_012_b": "North",
-    "VietMed_012_c": "South West",
-    "VietMed_012_d": "North",
-    "VietMed_013_a": "South East",
-    "VietMed_013_b": "North",
-    "VietMed_013_c": "South East",
-    "VietMed_013_d": "North",
-    "VietMed_014_a": "North",
-    "VietMed_014_b": "North",
-    "VietMed_015_a": "North",
-    "VietMed_015_b": "North",
-    "VietMed_015_c": "North",
-    "VietMed_017_a": "South West",
-    "VietMed_017_b": "North",
-    "VietMed_018_a": "South West",
-    "VietMed_018_b": "South West",
-    "VietMed_018_c": "South West",
-    "VietMed_018_d": "South West",
-    "VietMed_018_e": "South West",
-    "VietMed_018_f": "South West",
-    "VietMed_019_a": "South West",
-    "VietMed_019_b": "South West",
-    "VietMed_019_c": "South West",
-    "VietMed_019_d": "South West",
-    "VietMed_020_a": "South West",
-    "VietMed_020_b": "South West",
-    "VietMed_021": "North",
-    "VietMed_022": "South East",
-    "VietMed_023": "South West",
-    "VietMed_024": "South East",
-    "VietMed_025_a": "South West",
-    "VietMed_025_b": "South East",
-    "VietMed_026": "North Central Coast",
-    "VietMed_027_a": "South West",
-    "VietMed_027_b": "South East",
-    "VietMed_028_a": "South East",
-    "VietMed_028_b": "South East",
-    "VietMed_029": "South East"
+    "01": {
+        "region": "South West",
+        "subregion": "An Giang"
+    },
+    "04": {
+        "region": "North",
+        "subregion": "Bac Kan"
+    },
+    "05": {
+        "region": "South West",
+        "subregion": "Bac Lieu"
+    },
+    "07": {
+        "region": "South West",
+        "subregion": "Ben Tre"
+    },
+    "12": {
+        "region": "South West",
+        "subregion": "Ca Mau"
+    },
+    "13": {
+        "region": "South West",
+        "subregion": "Can Tho"
+    },
+    "14": {
+        "region": "North",
+        "subregion": "Cao Bang"
+    },
+    "20": {
+        "region": "South West",
+        "subregion": "Dong Thap"
+    },
+    "22": {
+        "region": "North",
+        "subregion": "Ha Giang"
+    },
+    "24": {
+        "region": "North",
+        "subregion": "Ha Noi"
+    },
+    "25": {
+        "region": "North Central Coast",
+        "subregion": "Ha Tinh"
+    },
+    "27": {
+        "region": "North",
+        "subregion": "Hai Phong"
+    },
+    "28": {
+        "region": "South West",
+        "subregion": "Hau Giang"
+    },
+    "32": {
+        "region": "South West",
+        "subregion": "Kien Giang"
+    },
+    "36": {
+        "region": "North",
+        "subregion": "Lang Son"
+    },
+    "37": {
+        "region": "North",
+        "subregion": "Lao Cai"
+    },
+    "40": {
+        "region": "North Central Coast",
+        "subregion": "Nghe An"
+    },
+    "45": {
+        "region": "North Central Coast",
+        "subregion": "Quang Binh"
+    },
+    "49": {
+        "region": "North Central Coast",
+        "subregion": "Quang Tri"
+    },
+    "54": {
+        "region": "North",
+        "subregion": "Thai Nguyen"
+    },
+    "55": {
+        "region": "North Central Coast",
+        "subregion": "Thanh Hoa"
+    },
+    "57": {
+        "region": "South West",
+        "subregion": "Tien Giang"
+    },
+    "59": {
+        "region": "South West",
+        "subregion": "Tra Vinh"
+    },
+    "61": {
+        "region": "South West",
+        "subregion": "Vinh Long"
+    },
+    "VietMed_002": {
+        "region": "South Central Coast",
+        "subregion": "VietMed_002"
+    },
+    "VietMed_004": {
+        "region": "South Central Coast",
+        "subregion": "VietMed_004"
+    },
+    "VietMed_005": {
+        "region": "Central Highland",
+        "subregion": "VietMed_005"
+    },
+    "VietMed_006": {
+        "region": "South East",
+        "subregion": "VietMed_006"
+    },
+    "VietMed_008": {
+        "region": "South East",
+        "subregion": "VietMed_008"
+    },
+    "VietMed_009": {
+        "region": "South East",
+        "subregion": "VietMed_009"
+    },
+    "VietMed_022": {
+        "region": "South East",
+        "subregion": "VietMed_022"
+    },
+    "VietMed_024": {
+        "region": "South East",
+        "subregion": "VietMed_024"
+    },
+    "VietMed_028": {
+        "region": "South East",
+        "subregion": "VietMed_028"
+    },
+    "VietMed_029": {
+        "region": "South East",
+        "subregion": "VietMed_029"
+    }
 }

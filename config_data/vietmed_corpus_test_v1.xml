@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<corpus name="vietmed_corpus_test_v1">
+
   <subcorpus name="VietMed_002">
     <speaker-description name="VietMed_002">
       <gender>notgiven</gender>
@@ -14072,4 +14071,3 @@
       </segment>
     </recording>
   </subcorpus>
-</corpus>
